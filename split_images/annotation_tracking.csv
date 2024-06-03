@@ -1,0 +1,7 @@
+CSV File Name,Annotator 1,Annotator 1 Status,Annotator 2,Annotator 2 Status,Tie Breaker,Tie Breaker Status,Overall Status
+CT_annotations_batch_1-3.csv,Annotator1,Not Started,Annotator2,Not Started,TieBreaker,Not Started,Incomplete
+CT_annotations_batch_4-6.csv,Annotator1,Not Started,Annotator2,Not Started,TieBreaker,Not Started,Incomplete
+CT_annotations_batch_7-9.csv,Annotator1,Not Started,Annotator2,Not Started,TieBreaker,Not Started,Incomplete
+CT_annotations_batch_10-12.csv,Annotator1,Not Started,Annotator2,Not Started,TieBreaker,Not Started,Incomplete
+CT_annotations_batch_13-15.csv,Annotator1,Not Started,Annotator2,Not Started,TieBreaker,Not Started,Incomplete
+CT_annotations_batch_16.csv,Annotator1,Not Started,Annotator2,Not Started,TieBreaker,Not Started,Incomplete
